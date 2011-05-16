@@ -24,5 +24,6 @@
 @property (nonatomic, retain) IBOutlet UINavigationController *navigationController;
 
 //test fixed #2
+//test gałęzi
 
 @end
