@@ -30,7 +30,7 @@
 		AF9324C61381E64900D5D274 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AF9324C81381E64900D5D274 /* ST2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ST2-Prefix.pch"; sourceTree = "<group>"; };
 		AF9324C91381E64900D5D274 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		AF9324CB1381E64900D5D274 /* ST2AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ST2AppDelegate.h; sourceTree = "<group>"; };
+		AF9324CB1381E64900D5D274 /* ST2AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ST2AppDelegate.h; sourceTree = "<group>"; };
 		AF9324CC1381E64900D5D274 /* ST2AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ST2AppDelegate.m; sourceTree = "<group>"; };
 		AF9324CF1381E64900D5D274 /* ST2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ST2.xcdatamodel; sourceTree = "<group>"; };
 		AF9324D21381E64900D5D274 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
@@ -287,6 +287,7 @@
 				AF9324DE1381E64A00D5D274 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
